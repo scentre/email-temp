@@ -1,0 +1,10 @@
+ TriviaBright Email 2:
+Image: http://media.campaigner.com/media/77/771501/shutterstock_2260931705%20(1).jpg                                                                     
+Question: What Dish Is Traditionally Served At Wimbledon?
+Answers: 
+Strawberries And Cream
+Quiche
+Chicken Cornish Pasties
+Tea Sandwiches
+Link: https://triviabright.com/todays-question/?slug=what-dish-is-traditionally-served-at-wimbledon&email=[Contact.email]&lctg=[Contact.ContactId]
+

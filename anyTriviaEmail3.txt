@@ -1,0 +1,10 @@
+ AnyTrivia Email 3:
+Image: http://media.campaigner.com/media/77/770267/shutterstock_2098415923%20(5)%20(1).jpg                                                              
+Question: How Long Is A Giraffe's Tongue?
+Answers: 
+8 Inches
+18 Inches
+12 Inches
+24 Inches
+Link: https://anytrivia.com/todays-question/?slug=how-long-is-a-giraffes-tongue&email=[Contact.email]&lctg=[Contact.ContactId]
+

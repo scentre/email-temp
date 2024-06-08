@@ -1,0 +1,10 @@
+ TriviaWire Email 2:
+Image: http://media.campaigner.com/media/77/772868/shutterstock_2052206984%20(5)%20(1).jpg                                 
+Question: When Was The Declaration Of Independence Signed?
+Answers: 
+July 4, 1776 
+April 15, 1776 
+July 16, 1776 
+August 2, 1776 
+Link: https://triviawire.com/todays-question/?slug=when-was-the-declaration-of-independence-signed&email=[Contact.email]&lctg=[Contact.ContactId]
+

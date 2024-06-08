@@ -1,0 +1,10 @@
+ TriviaBright Email 1:
+Image: http://media.campaigner.com/media/77/771501/shutterstock_1739980904%20(1).jpg                                                                  
+Question: Which Is The Only Planet In The Solar System That Is Less Dense Than Water?
+Answers: 
+Neptune 
+Venus 
+Uranus
+Saturn
+Link: https://triviabright.com/todays-question/?slug=which-is-the-only-planet-in-the-solar-system-that-is-less-dense-than-water&email=[Contact.email]&lctg=[Contact.ContactId]
+

@@ -1,0 +1,10 @@
+ TriviaConnect Email 2:
+Image: https://fnlgoh.stripocdn.email/content/guids/CABINET_dbb3022d72b85d43bbb8fb924d661540d520cf23b47937f18e3c0669b6b75d6f/images/shutterstock_2346193907.jpg                                                              
+Question: What Is The Ford Mustang Named After?
+Answers: 
+A Fighter Plane From WWI
+A Fighter Plane From WWII
+A Soldier From WWII
+The Horse
+Link: https://triviaconnect.com/todays-question/?slug=what-is-the-ford-mustang-named-after&email=[Contact.email]&lctg=[Contact.ContactId
+

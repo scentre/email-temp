@@ -1,0 +1,10 @@
+ TriviaConnect Email 3:
+Image: https://fnlgoh.stripocdn.email/content/guids/CABINET_dbb3022d72b85d43bbb8fb924d661540d520cf23b47937f18e3c0669b6b75d6f/images/shutterstock_2017287236.jpg                                                              
+Question: What Was The First U.S. Company To Be Valued At $1 Billion?
+Answers: 
+Amazon
+Apple 
+Uber
+United States Steel 
+Link: https://triviaconnect.com/todays-question/?slug=what-was-the-first-us-company-to-be-valued-at-1-billion&email=[Contact.email]&lctg=[Contact.ContactId
+

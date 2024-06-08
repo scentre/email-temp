@@ -1,0 +1,10 @@
+ TriviaWire Email 1:
+Image: http://media.campaigner.com/media/77/772868/shutterstock_521945896%20(2)%20(1).jpg                                                                  
+Question: Who Is The Youngest Ever Nobel Prize Winner?
+Answers: 
+Lawrence Bragg
+Malala Yousafzai
+Paul Dirac
+Werner Karl Heisenberg
+Link: https://triviawire.com/todays-question/?slug=who-is-the-youngest-ever-nobel-prize-winner&email=[Contact.email]&lctg=[Contact.ContactId]
+

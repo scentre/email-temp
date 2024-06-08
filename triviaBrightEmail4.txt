@@ -1,0 +1,10 @@
+ TriviaBright Email 4:
+Image: http://media.campaigner.com/media/77/771501/shutterstock_1419862670%20(12)%20(1).jpg                               
+Question: Who Was The First U.S. President To Be Born In The United States?
+Answers:
+Thomas Jefferson 
+James K. Polk
+Millard Fillmore
+Martin Van Buren
+Link: https://triviabright.com/todays-question/?slug=who-was-the-first-us-president-to-be-born-in-the-united-states&email=[Contact.email]&lctg=[Contact.ContactId] 
+

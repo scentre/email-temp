@@ -1,0 +1,10 @@
+ TriviaDream Email 4:
+Image: http://media.campaigner.com/media/77/772867/shutterstock_1771039022%20(1).jpg                                                         
+Question: What Was The First Pizza Chain In The United States?
+Answers: 
+Papa Johns 
+Little Caesars
+Pizza Hut
+Domino’s Pizza
+Link: https://triviadream.com/todays-question/?slug=what-was-the-first-pizza-chain-in-the-united-states&email=[Contact.email]&lctg=[Contact.ContactId 
+

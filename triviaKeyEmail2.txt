@@ -1,0 +1,10 @@
+ TriviaKey Email 2:
+Image: https://fnlgoh.stripocdn.email/content/guids/CABINET_dbb3022d72b85d43bbb8fb924d661540d520cf23b47937f18e3c0669b6b75d6f/images/shutterstock_1965680194_7.jpg                                                            
+Question: What Was The Name Of The High School In "Grease"?
+Answers: 
+Southridge High
+Grease High 
+Rydell High
+Ridgemont High 
+Link: https://triviakey.com/todays-question/?slug=what-was-the-name-of-the-high-school-in-grease&email=[Contact.email]&lctg=[Contact.ContactId
+

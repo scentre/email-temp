@@ -1,0 +1,10 @@
+ AnyTrivia Email 4:
+Image: http://media.campaigner.com/media/77/770267/shutterstock_95491768%20(7)%20(1).jpg                                                               
+Question: Which U.S. State Has The Original London Bridge?
+Answers: 
+Arizona
+New York
+Kentucky
+Delaware
+Link: https://anytrivia.com/todays-question/?slug=which-us-state-has-the-original-london-bridge&email=[Contact.email]&lctg=[Contact.ContactId]
+

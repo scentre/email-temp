@@ -1,0 +1,10 @@
+ TriviaWire Email 4:
+Image: http://media.campaigner.com/media/77/772868/shutterstock_1172916133%20(1)%20(1).jpg                                                      
+Question: Which Is The Longest Mountain Chain In The World?
+Answers:
+Appalachian 
+Atlas
+Alps
+Andes 
+Link: https://triviawire.com/todays-question/?slug=which-is-the-longest-mountain-chain-in-the-world&email=[Contact.email]&lctg=[Contact.ContactId]
+
